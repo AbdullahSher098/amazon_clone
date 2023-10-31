@@ -83,11 +83,25 @@
   border: 2px solid orange;
 }
 
-/** box4 hello sigh in box**/
+/** box4 aka hello sigh in box**/
 span {
   font-size: 0.7rem;
 }
 .nav-sec {
   font-size: 0.85rem;
   font-weight: 700;
+}
+
+/** box5  aka cart**/
+.nav-cart i {
+  width: 35px;
+}
+.nav-cart {
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.nav-cart i {
+  font-size: 35px;
 }
